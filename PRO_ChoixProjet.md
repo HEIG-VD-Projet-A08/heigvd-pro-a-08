@@ -1,3 +1,7 @@
+**Groupe:** A-08
+**Membres:** 
+Jérôme Arn, Chris Barros Henriques, Jean-Luc Blanc, Tiffany Bonzon, Gaëtan Daubresse, Quentin Saucy
+
 # Préférences de projet
 
 
