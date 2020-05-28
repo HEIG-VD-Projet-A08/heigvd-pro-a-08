@@ -52,7 +52,7 @@ https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Do
 
 ### GUI
 
-La GUI a été compilé à l’aide de Qt v5.12.7.
+Ce repo permet de compiler le code de la gui en utilisant l'environnement de développement Qt Creator, version 4.12, qui utilise la version 5.14 de Qt. L'exécutable se trouvera dans les dossiers de build qui se composeront lors de la configuration du projet sur Qt Creator en ouvrant le fichier GUI.pro qui sert de fichier de projet pour la GUI. A noter qu'il est important d'avoir une version de Qt au minimum à 5.12 afin de garantir le fonctionnement du widget "QcustomPlot" qui permet de gérer tous l'espace graphique de la GUI.
 
 
 
