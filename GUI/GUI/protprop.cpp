@@ -27,7 +27,7 @@ ProtProp::ProtProp(QWidget *parent)
     ui->setupUi(this);
 
     // enable validator for each input
-    ui->IP->setText("192.168.1.206");
+    ui->IP->setText("192.168.103.157");
     ui->IP->setValidator(ipValidator);
     ui->CharMax->setValidator(inputNumberChar);
     ui->CharMin->setValidator(inputNumberChar);
