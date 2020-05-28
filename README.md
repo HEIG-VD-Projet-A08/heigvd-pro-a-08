@@ -103,7 +103,8 @@ De plus, deux documents expliquant respectivement l’utilisation du serveur, ai
 **Documentations techniques:**
 
 - [Serveur](https://docs.google.com/document/d/1cu2fy_NKeB7CfN1gLJ-30kh-27nX6uxqZ55I2D_rS-U/edit#heading=h.z6ne0og04bp5)
-- [GUI](https://docs.google.com/document/d/1n5Kse2fOryqGmdbbhAouZGntiE6GZY5HOwPQOgFq6KI/edit#heading=h.z6ne0og04bp5) 
+- [GUI](https://docs.google.com/document/d/1n5Kse2fOryqGmdbbhAouZGntiE6GZY5HOwPQOgFq6KI/edit#heading=h.z6ne0og04bp5)
+- [Protocole de transmission](https://drive.google.com/drive/u/0/folders/1-itmTpJNswW27KFAy4zYQRq1HExekpTE) 
 
 
 
